@@ -1,0 +1,21 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Database (Development phase mein reset ke liye delete karte hain)
+db.sqlite3
+
+# Media & Static
+/media/
+/static/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
